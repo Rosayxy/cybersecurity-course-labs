@@ -8,5 +8,5 @@
 实验6：随便搓一下完事了 doge    
 
 实验7：代码见 [CVE-2013-2028 exploit](https://github.com/Rosayxy/CVE-2013-2028-Exploit)    
-运行方法见 [this blog](https://rosayxy.github.io/reproducing-cve-2013-2028/)    
+运行方法和一些源码分析见 [this blog](https://rosayxy.github.io/reproducing-cve-2013-2028/)    
 
